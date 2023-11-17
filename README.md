@@ -2,9 +2,9 @@ This Python project is a voice-controlled AI assistant capable of performing var
 
 # Features:
 
-Voice Interaction: Utilizes speech_recognition library for voice commands.
-AI-Powered Chat: Integrates with OpenAI's GPT-3.5 Turbo model for conversational interactions.
-Web Browsing: Opens websites such as YouTube, Wikipedia, Google, Instagram, and LinkedIn based on user requests.
+Voice Interaction: Utilizes speech_recognition library for voice commands.  
+AI-Powered Chat: Integrates with OpenAI's GPT-3.5 Turbo model for conversational interactions.  
+Web Browsing: Opens websites such as YouTube, Wikipedia, Google, Instagram, and LinkedIn based on user requests.  
 Time Reporting: Provides current time upon request.
 Custom Commands: Responds to specific commands for various actions.
 Requirements:
