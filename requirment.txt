@@ -1,0 +1,11 @@
+Require libraries:
+
+    win32com.client
+    os
+    speech_recognition as sr
+    webbrowser
+    datetime
+    openai
+
+Apikey : make sure you create your (Api key) or add them in porgram.
+
