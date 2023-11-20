@@ -1,6 +1,6 @@
     win32com.client
     os
-    speech_recognition as sr
+    speech_recognition 
     webbrowser
     datetime
     openai
